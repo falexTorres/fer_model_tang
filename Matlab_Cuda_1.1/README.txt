@@ -98,12 +98,3 @@ ans =
    512
 
 Elapsed time is 15.164892 seconds.
-
-
-
-
-MATLAB scripts available for download from:
-  http://www.amath.washington.edu/courses/571-winter-2006/matlab.html
-  Professor Chris Bretherton, Atmospheric Science Department, University of Washington
-
-Last modified: 6/26/2007
